@@ -5,7 +5,7 @@ import SectionTitle from '../common/SectionTitle';
 const experiences = [
   {
     title: 'Correct Steps Consultancy',
-    role: 'Part-Time Developer',
+    role: 'Full Stack Developer Intern',
     period: 'Aug 2024 - Dec 2024',
     description: 'Enhanced front-end and back-end performance, implemented new features, and optimized database queries.',
     achievements: [
@@ -18,7 +18,7 @@ const experiences = [
   },
   {
     title: 'Correct Steps Consultancy',
-    role: 'Intern',
+    role: 'Part time Developer',
     period: 'May 2024 - July 2024',
     description: 'Built and optimized MERN stack web applications according to client requirement, focusing on scalability and user experience.',
     achievements: [

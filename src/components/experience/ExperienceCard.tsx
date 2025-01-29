@@ -48,7 +48,10 @@ export default function ExperienceCard({
           >
             <Briefcase className="w-5 h-5 text-purple-400" />
           </motion.div>
-          <h3 className="text-xl font-semibold text-white">{title}</h3>
+          <div>
+            <h3 className="text-xl font-semibold text-white">{title}</h3>
+            <p className="text-sm text-purple-300">{role}</p> {/* Added this line */}
+          </div>
         </div>
 
         <div className="flex items-center gap-2 text-purple-400 mb-4">
