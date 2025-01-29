@@ -53,3 +53,6 @@
 .animate-slide-up {
   animation: slide-up 1s ease-out forwards;
 }
+html, body {
+  overflow-x: hidden;
+}
