@@ -62,8 +62,8 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/Divanshu_Kachhawa_CV.pdf" // Path to your CV in the public folder
-              download="Divanshu_Kachhawa_CV.pdf"
+              href="https://drive.google.com/file/d/18ZyiUZ2wJU6Gbhmxn8eAy4dQBfAVV_i-/view?usp=sharing" // Path to your CV in the public folder
+              // download="Divanshu_Kachhawa_CV.pdf"
               className="group flex items-center gap-2 px-8 py-3 bg-transparent border-2 border-purple-400 text-purple-400 hover:bg-purple-400/10 rounded-full transition-all duration-300"
             >
               <Download className="w-5 h-5" />
