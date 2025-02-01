@@ -3,12 +3,12 @@ import React, { useEffect, useRef, useState } from 'react';
 const skillCategories = [
   {
     title: 'Programming Languages',
-    skills: ['C', 'C++', 'Java', 'Python','Kotlin'],
+    skills: ['C',  'Java', 'Python','Kotlin'],
     bgColor: 'from-blue-500 to-cyan-500'
   },
   {
     title: 'Web Technologies',
-    skills: ['HTML', 'Tailwind CSS', 'JavaScript', 'React.js', 'Express.js', 'Node.js','Next.js','Vue.js', 'Bootstrap'],
+    skills: ['HTML', 'Tailwind CSS', 'JavaScript','TypeScript', 'React.js', 'Express.js', 'Node.js','Next.js','Vue.js', 'Bootstrap'],
     bgColor: 'from-purple-500 to-pink-500'
   },
   {
