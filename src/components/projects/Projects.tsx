@@ -19,13 +19,13 @@ const projects = [
   },
   {
     title: 'Business Management Platform',
-    description: 'Role-based access control system with dynamic dashboards and analytics.',
+    description: 'A full-stack, role-based web application for automating business operations,including HR management, payroll, inventory, sales, and expenses. Features real-time analytics, automated invoicing, secure authentication (JWT), and data exports.',
     images: [
       'https://i.postimg.cc/bYGTMDwx/Screenshot-2024-08-06-001950.png',
       'https://i.postimg.cc/MGK0YXLj/Screenshot-2024-08-06-204821.png',
       'https://i.postimg.cc/nhxGC3Y2/Screenshot-2024-08-09-232820.png',
     ],
-    tech: ['Next.js', 'TypeScript', 'PostgreSQL', 'Docker'],
+    tech: ['React.js', 'Node.js', 'Express', 'Redis','MongoDB'],
     demo: 'https://example.com',
     github: 'https://github.com'
   },
@@ -44,22 +44,19 @@ const projects = [
     github: 'https://github.com'
   },
   {
-    title: 'Nirvana',
-    description: 'Stress-relief website offering guided meditation and therapy resources.',
+    title: 'Decentralized Voting System Using Blockchain',
+    description: 'Developed a blockchain-based decentralized voting platform for university elections, leveraging Solidity, Hardhat, Truffle, and MetaMask on the Volta testnet. Ensures transparency and immutability of votes.',
     images: [
-      'https://i.postimg.cc/y8DNKH2S/Screenshot-2024-04-06-230408.png',
-      'https://i.postimg.cc/MGZp6ZzW/nirvana-8.png',
-      'https://i.postimg.cc/jS0T5xQp/nirvana-2.png',
-      'https://i.postimg.cc/NGnY37yf/nirv-3.png',
-      'https://i.postimg.cc/FsJmNdcb/nirvana-4.png',
-      'https://i.postimg.cc/y8mH3MLk/nirvana-5.png',
-      'https://i.postimg.cc/zfq1CxQp/nirvana-6.png',
-      'https://i.postimg.cc/6QzxYdJK/nirvana-7.png'
+      'https://i.postimg.cc/YqTtGS9t/blockchain1.png',
+      'https://i.postimg.cc/bJVK76Sq/blockchain-2-transformed.png',
+      'https://i.postimg.cc/Gm3xDbSS/Screenshot-2025-01-16-001442.png',
+      'https://i.postimg.cc/XY2cctRN/Screenshot-2025-01-16-001643.png'
     ],
-    tech: ['React', 'Node.js', 'MongoDB', 'Express'],
-    demo: 'https://example.com',
-    github: 'https://github.com'
+    tech: ['Solidity', 'Hardhat', 'Truffle', 'MetaMask', 'Volta Testnet'],
+    demo: 'https://example-voting-system.com',
+    github: 'https://github.com/username/decentralized-voting-system'
   },
+ 
   {
     title: 'Online Registration and Course Management System',
     description: 'Built a dynamic PHP and MySQL web application for student registration, exam sign-up, and course management. Integrated a secure admin panel for faculty to manage courses and view student data efficiently',
@@ -74,18 +71,23 @@ const projects = [
     demo: 'https://example.com',
     github: 'https://github.com'
   },
+  
   {
-    title: 'Decentralized Voting System Using Blockchain',
-    description: 'Developed a blockchain-based decentralized voting platform for university elections, leveraging Solidity, Hardhat, Truffle, and MetaMask on the Volta testnet. Ensures transparency and immutability of votes.',
+    title: 'Nirvana',
+    description: 'Stress-relief website offering guided meditation and therapy resources.',
     images: [
-      'https://i.postimg.cc/YqTtGS9t/blockchain1.png',
-      'https://i.postimg.cc/bJVK76Sq/blockchain-2-transformed.png',
-      'https://i.postimg.cc/Gm3xDbSS/Screenshot-2025-01-16-001442.png',
-      'https://i.postimg.cc/XY2cctRN/Screenshot-2025-01-16-001643.png'
+      'https://i.postimg.cc/y8DNKH2S/Screenshot-2024-04-06-230408.png',
+      'https://i.postimg.cc/MGZp6ZzW/nirvana-8.png',
+      'https://i.postimg.cc/jS0T5xQp/nirvana-2.png',
+      'https://i.postimg.cc/NGnY37yf/nirv-3.png',
+      'https://i.postimg.cc/FsJmNdcb/nirvana-4.png',
+      'https://i.postimg.cc/y8mH3MLk/nirvana-5.png',
+      'https://i.postimg.cc/zfq1CxQp/nirvana-6.png',
+      'https://i.postimg.cc/6QzxYdJK/nirvana-7.png'
     ],
-    tech: ['Solidity', 'Hardhat', 'Truffle', 'MetaMask', 'Volta Testnet'],
-    demo: 'https://example-voting-system.com',
-    github: 'https://github.com/username/decentralized-voting-system'
+    tech: ['HTML' , 'CSS' ,'Javascript'],
+    demo: 'https://example.com',
+    github: 'https://github.com'
   }
 ];
 
