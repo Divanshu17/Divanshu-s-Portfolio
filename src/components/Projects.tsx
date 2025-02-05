@@ -30,7 +30,7 @@ const projects = [
     title: 'Nirvana',
     description: 'Stress-relief website offering guided meditation and therapy resources.',
     icon: Brain,
-    tech: ['React', 'Node.js', 'MongoDB', 'Express'],
+    tech: [ 'HTML', 'Javascript', 'CSS'],
     demo: 'https://example.com',
     github: 'https://github.com'
   }
